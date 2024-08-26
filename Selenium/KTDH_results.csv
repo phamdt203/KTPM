@@ -1,0 +1,4 @@
+"Test Case","Status","Message"
+"Kiểm tra tính năng đặt hàng","Pass","Đặt sản phẩm thành công."
+"Kiểm tra tính năng đặt hàng","Pass","Nhập thiếu tên khách hàng."
+"Kiểm tra tính năng đặt hàng","Pass","Nhập thiếu số điện thoại."
